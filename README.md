@@ -9,6 +9,11 @@
 - ButtonList with multiple button
 - VideoContainer with VideoCard
 - fetching video using YouTube video api key
+- Watch page
+- Routing our app
+- link VideoCard
+- closeMenu when watch page load
+- useSearchParams()
 
 # Feature
 
