@@ -14,6 +14,9 @@
 - link VideoCard
 - closeMenu when watch page load
 - useSearchParams()
+- searchbar functionality
+- debouncing
+- suggestion dropdown developed
 
 # Feature
 
