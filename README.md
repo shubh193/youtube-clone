@@ -17,6 +17,8 @@
 - searchbar functionality
 - debouncing
 - suggestion dropdown developed
+- optimized and cached search functionality
+- search slice created for cache
 
 # Feature
 
