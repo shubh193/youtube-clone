@@ -19,6 +19,7 @@
 - suggestion dropdown developed
 - optimized and cached search functionality
 - search slice created for cache
+- nested comments
 
 # Feature
 
